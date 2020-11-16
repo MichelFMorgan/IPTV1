@@ -1,0 +1,4 @@
+#EXTM3U
+#SCRIPT - #EXTINF:-1 tvg-name="Alkarma Praise" tvg-logo="LOGO IMAGE" group-title="Christian",Alkarma Praise
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
+
