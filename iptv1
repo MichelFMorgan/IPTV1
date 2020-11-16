@@ -7,3 +7,6 @@ https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/cdb837ca_1_299000/c
 
 #SCRIPT - #EXTINF:-1 tvg-name="SAT 7" tvg-logo="LOGO IMAGE" group-title="Christian",SAT 7
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_720p/chunks_dvr.m3u8
+
+#SCRIPT - #EXTINF:-1 tvg-name="ABN" tvg-logo="LOGO IMAGE" group-title="Christian",ABN
+http://rtmp1.abnsat.com/hls/arabic.m3u8
