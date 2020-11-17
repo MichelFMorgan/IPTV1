@@ -39,6 +39,8 @@ https://597f64b67707a.streamlock.net/alhorreya.tv/smil:alhorreya.smil/playlist.m
 #SCRIPT - #EXTINF:-1 tvg-name="Al-Fady TV" tvg-logo="LOGO IMAGE" group-title="Christian",Al-Fady TV
 http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
 
+#SCRIPT - #EXTINF:-1 tvg-name="CNBC" tvg-logo="LOGO IMAGE" group-title="Christian",CNBC
+https://cnbcarabia.hibridmedia.com/cnbc/liveabr/playlist.m3u8
 
 #SCRIPT - #EXTINF:-1 tvg-name="Aljazeera" tvg-logo="LOGO IMAGE" group-title="Christian",Aljazeera
 https://www.youtube.com/embed/taAYP6uAGvs
