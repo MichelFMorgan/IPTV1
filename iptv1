@@ -10,3 +10,46 @@ https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7
 
 #SCRIPT - #EXTINF:-1 tvg-name="ABN" tvg-logo="LOGO IMAGE" group-title="Christian",ABN
 http://rtmp1.abnsat.com/hls/arabic.m3u8
+
+#EXTINF:-1, CTV
+http://media6.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1, Aghapy TV
+https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
+#EXTINF:-1, Al-Karma TV
+https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmana1.smil?type=m3u8
+#EXTINF:-1, Al-Horreya TV
+https://597f64b67707a.streamlock.net/alhorreya.tv/smil:alhorreya.smil/playlist.m3u8
+#EXTINF:-1, Al-Fady TV
+http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
+#EXTINF:-1, Logos TV
+https://5d12bc59c4748.streamlock.net/redirect/logoschannel.com/logostv.smil?type=m3u8
+#EXTINF:-1, Nour Sat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1, DMC HD
+http://livecdnh3.tvanywhere.ae/hls/dmchd/04.m3u8
+#EXTINF:-1, LBC
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:-1, MTV HD
+https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon_576p.m3u8
+#EXTINF:-1, OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
+#EXTINF:-1, Teleliban TV
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
+#EXTINF:-1, Jadeed TV
+http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
+#EXTINF:-1, Al Nahar 
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/04.m3u8
+#EXTINF:-1, MBC Masr
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
+#EXTINF:-1, MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
+#EXTINF:-1, MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1, MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:-1, Al Kahera Wl Nas
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/03.m3u8
+#EXTINF:-1, Arsenal
+http://87.120.36.62:8080/hls/streama116164/index.m3u8?st=xwBekRy81SReFiQeMksaVw
+#EXTINF:-1, Arsenal 2
+http://87.120.36.32:8080/hls/streama135860/index.m3u8?st=161w3B4kykv20PVjrRLzGA
