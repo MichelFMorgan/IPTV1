@@ -45,4 +45,7 @@ https://cnbcarabia.hibridmedia.com/cnbc/liveabr/playlist.m3u8
 #SCRIPT - #EXTINF:-1 tvg-name="Aljazeera" tvg-logo="LOGO IMAGE" group-title="Christian",Aljazeera
 https://www.youtube.com/embed/taAYP6uAGvs
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
+plugin://plugin.video.youtube/play/?video_id=113j6jYJ40Q
+
 
